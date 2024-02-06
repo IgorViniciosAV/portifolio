@@ -230,4 +230,8 @@ body{
     .apresentacao__imagem {
         width: 50%;
     }
+
+    .apresentacao__imagem-curriculo {
+        width: 64%;
+    }
 }
