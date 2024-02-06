@@ -114,7 +114,6 @@ body{
 .apresentacao__conteudo__text {
     font-size: 1.475rem;
     font-family: var(--fonte-secundaria);
-    width: 37.5rem
 }
 
 .apresentacao__links {
@@ -195,11 +194,12 @@ body{
 
 @media (max-width: 1200px) {
     .cabecalho {
-        padding: 8%;
+        padding: 8% 12%;
     }
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 40px;
     }
 
     .apresentacao {
@@ -225,5 +225,9 @@ body{
     .apresentacao__conteudo-curriculo {
         width: auto;
         gap: 55px;
+    }
+
+    .apresentacao__imagem {
+        width: 50%;
     }
 }
