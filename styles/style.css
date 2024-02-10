@@ -165,10 +165,12 @@ body{
 
 .apresentacao__imagem {
     width: 40%;
+    border-radius: 40px;
 }
 
 .apresentacao__imagem-curriculo {
     width: 40%;
+    border-radius: 40px;
 }
 
 .rodape {
@@ -240,4 +242,3 @@ body{
         width: 64%;
     }
 }
-
