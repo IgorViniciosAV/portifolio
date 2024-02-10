@@ -73,6 +73,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .apresentacao__conteudo {
@@ -166,6 +167,10 @@ body{
     width: 40%;
 }
 
+.apresentacao__imagem-curriculo {
+    width: 40%;
+}
+
 .rodape {
     text-align: center;
     padding: 24px;
@@ -235,3 +240,4 @@ body{
         width: 64%;
     }
 }
+
