@@ -211,7 +211,7 @@ body{
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 6%;
     }
 
     .apresentacao__conteudo {
@@ -220,13 +220,14 @@ body{
 
     .apresentacao-about {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 6%;
         gap: 80px;
     }
 
     .apresentacao-curriculo {
         flex-direction: column-reverse;
         gap: 80px;
+        padding: 6%;
     }
 
     .apresentacao__conteudo-curriculo {
@@ -235,7 +236,7 @@ body{
     }
 
     .apresentacao__imagem {
-        width: 50%;
+        width: 64%;
     }
 
     .apresentacao__imagem-curriculo {
